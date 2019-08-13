@@ -1,5 +1,6 @@
 # xsdToJavaPojo
 Sample project for creating a java pojo from a xsd [xml file should be converted to a xsd]
+
 Steps :
 1-You can use this website for creating a xsd from a plain xml ,
  https://www.freeformatter.com/xsd-generator.html
