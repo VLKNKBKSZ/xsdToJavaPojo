@@ -2,6 +2,9 @@ generated/Items.class
 generated/Items$Item$Topping.class
 generated/Items$Item.class
 generated/Items$Item$Batters.class
-App.class
+xsd/RestApiRunner.class
+xsd/App.class
+xsd/core/RestApi.class
 generated/Items$Item$Batters$Batter.class
 generated/ObjectFactory.class
+xsd/config/Config.class
