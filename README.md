@@ -7,13 +7,13 @@ Steps :
  
 2- Create a xsd in a maven resources folder.
 
-3- add the jaxb api
+3- add the jaxb api as a dependency.
 
-4- add jaxb2-maven-plugin as a build plugin
+4- add jaxb2-maven-plugin as a build plugin and configure settings.
 
-5- add sources
+5- specify in which package/folder you want the pojo's to be generated.
 
-6- mvn clean install
+6- mvn clean install.
 
 The generated pojo's will contain the xml annatotions, for this u need the jaxb api otherwise,
 the annotations will not be generated.
