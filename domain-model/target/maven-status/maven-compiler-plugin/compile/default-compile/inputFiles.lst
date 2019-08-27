@@ -1,6 +1,2 @@
-/home/ubuntu/IdeaProjects/xsd/domain-model/src/main/java/xsd/App.java
-/home/ubuntu/IdeaProjects/xsd/domain-model/src/main/java/xsd/config/Config.java
-/home/ubuntu/IdeaProjects/xsd/domain-model/target/generated-sources/jaxb/generated/Items.java
-/home/ubuntu/IdeaProjects/xsd/domain-model/src/main/java/xsd/core/RestApi.java
-/home/ubuntu/IdeaProjects/xsd/domain-model/src/main/java/xsd/RestApiRunner.java
-/home/ubuntu/IdeaProjects/xsd/domain-model/target/generated-sources/jaxb/generated/ObjectFactory.java
+/home/ubuntu/IdeaProjects/xsdToJavaPojo/domain-model/target/generated-sources/jaxb/com/element55/space/Items.java
+/home/ubuntu/IdeaProjects/xsdToJavaPojo/domain-model/target/generated-sources/jaxb/com/element55/space/ObjectFactory.java
